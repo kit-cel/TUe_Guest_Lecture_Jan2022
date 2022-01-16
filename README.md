@@ -1,6 +1,6 @@
-# PyTorch examples and presentation (pdf) shown in the talk "End-to-end Modelling and Optimization of Optical Communication Systems using Deep Learning" presented at the "AI for Optical Networks & Neuromorphic Photonics for AI Acceleration" summer school at Fraunhofer HHI
+# PyTorch examples and presentation (pdf) shown in the talk "End-to-end Optimization of Optical Communication Systems using Deep Learning" presented at the "Communication Theory" guest lecture at TU Eindhoven in January 2022
 
-In this repository, you can find some of the examples that are shown in our presentation called "End-to-end Modelling and Optimization of Optical Communication Systems using Deep Learning" presented at the "AI for Optical Networks & Neuromorphic Photonics for AI Acceleration" summer school at Fraunhofer HHI. Authors are Laurent Schmalen, Boris Karanov and Vincent Lauinger.
+In this repository, you can find some of the examples that are shown in our presentation called "End-to-end Optimization of Optical Communication Systems using Deep Learning" presented at the "Communication Theory" guest lecture at TU Eindhoven. Authors are Laurent Schmalen, Boris Karanov and Vincent Lauinger.
 
 Additionally, you can find the slides accompanying the presentation (for background information) in the root directory.
 
